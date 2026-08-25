@@ -1,0 +1,11 @@
+Student_ID,Name,Grade,Overall_Percentage,Academic_Change,Study_Hours_Per_Day,Attendance_%,Homework_Completion_%,Sleep_Hours,Sleep_Quality,Meal_Quality_Score,Water_Intake_Glasses,Exercise_Minutes,Screen_Time_Hours,Stress_Level,Stress_Score,Depression_Severity,Depression_Indicators,Counselor_Visits,Risk_Flag,Risk_Score
+STU1001,Aarav Sharma,10,88.5,2.5,4.0,95,92,7.5,8,85,8,45,2.0,Low,20,None,None,0,0,15
+STU1002,Ananya Roy,10,92.0,1.0,4.5,98,95,8.0,9,90,9,60,1.5,Low,15,None,None,0,0,10
+STU1003,Rohan Verma,10,64.0,-5.2,2.0,82,70,5.5,5,60,5,20,4.5,High,75,Moderate,Persistent fatigue & mood drops,2,1,72
+STU1004,Priya Patel,10,78.0,0.5,3.0,90,85,6.5,7,75,6,30,3.0,Medium,45,None,None,1,0,35
+STU1005,Arjun Singh,10,48.5,-12.0,1.5,68,50,4.5,3,45,4,10,7.5,Very High,90,Severe,Withdrawal & declining grades,4,1,88
+STU1006,Sanya Gupta,10,85.0,3.0,3.5,94,90,7.0,8,80,7,40,2.5,Low,25,None,None,0,0,20
+STU1007,Kabir Mehta,10,58.0,-8.5,1.8,75,60,5.0,4,50,5,15,5.0,High,80,Moderate,Anxiety during exams,3,1,78
+STU1008,Diya Das,10,95.0,4.0,5.0,99,98,8.5,9,95,10,50,1.0,Low,10,None,None,0,0,5
+STU1009,Vivek Joshi,10,71.0,-1.5,2.5,88,78,6.0,6,70,6,25,3.5,Medium,50,None,None,1,0,40
+STU1010,Isha Kapoor,10,81.0,1.8,3.2,91,88,7.2,7,82,7,35,2.0,Low,30,None,None,0,0,22
