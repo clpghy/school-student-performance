@@ -10,7 +10,7 @@ from reportlab.lib import colors
 st.set_page_config(page_title="Multi-Factor Student Performance & Well-being Monitor", layout="wide")
 
 # Live Google Sheet CSV Link
-SHEET_URL = "https://docs.google.com/spreadsheets/d/1ldtaVjWIPQILcwLEpSvxVmRCJiJN3vzNbMn4gBtCQh4/gviz/tq?tqx=out:csv"
+SHEET_URL = "https://docs.google.com/spreadsheets/d/1ldtaVjWIPQILcwLEpSvxVmRCJiJN3vzNbMn4gBtCQh4/gviz/tq?tqx=out:csv&gid=0"
 
 @st.cache_data(ttl=0)
 def load_data():
