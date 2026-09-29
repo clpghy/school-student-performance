@@ -39,6 +39,7 @@ selected_grade = st.sidebar.multiselect("Filter by Grade:", options=sorted(raw_d
 selected_section = st.sidebar.multiselect("Filter by Section:", options=sorted(raw_df['Section'].unique()), default=sorted(raw_df['Section'].unique()))
 selected_gender = st.sidebar.multiselect("Filter by Gender:", options=sorted(raw_df['Gender'].unique()), default=sorted(raw_df['Gender'].unique()))
 
+# Proprietor Attribution & Platform Contact Info
 st.sidebar.markdown("---")
 st.sidebar.caption("🚀 **Platform Version 1.0**")
 st.sidebar.caption("Developed & Maintained by **Azim Hussain**")
